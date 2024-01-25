@@ -1,0 +1,1 @@
+Olá, esse projeto é uma API que retorna informações sobre Pokemons quando você os pesquisa. Divirta-se!
